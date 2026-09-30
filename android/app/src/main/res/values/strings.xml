@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nido</string>
+    <string name="title_activity_main">Nido</string>
+    <string name="package_name">Valen.co</string>
+    <string name="custom_url_scheme">Valen.co</string>
+</resources>
